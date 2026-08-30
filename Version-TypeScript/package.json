@@ -1,0 +1,12 @@
+{
+  "name": "consultorio-de-juegos-ts",
+  "version": "1.0.0",
+  "description": "Migracion a TypeScript del catalogo de videojuegos",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc && node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
