@@ -1,0 +1,10 @@
+{
+  "name": "Consultorio-de-juegos",
+  "version": "1.0.0",
+  "description": "Proyecto 1: funciones del sistema de catalogo de juegos",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
