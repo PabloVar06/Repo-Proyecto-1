@@ -9,5 +9,5 @@ export interface Juego{
     genero: Genero;
     plataforma: Plataforma;
     fechaLanzamiento: Date;
-    
+    puntaje: number;
 };
