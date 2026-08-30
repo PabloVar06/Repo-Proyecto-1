@@ -1,6 +1,6 @@
 # Bitácora Proyecto 1
 
-##Intención Inicial:
+## Intención Inicial:
 
 **Idea:** La idea es crear un catalogo de videojuegos que registre nombre, plataforma, año de lanzamiento, genero y un puntaje de critica. A partir de ese puntaje que se genere un veredicto si es un juego: Bueno, Regular, Malo.
 
