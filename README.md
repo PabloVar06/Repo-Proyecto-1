@@ -78,11 +78,14 @@ npm run dev     # compila y ejecuta
 
 ## Aprendizajes
 
-[Escribe aquí 2-4 líneas en tus propias palabras: qué fue lo más difícil de tipar, qué te
-sorprendió del error de `unknown` en el `catch`, o qué entendiste mejor sobre la diferencia
-entre `type` e `interface` después de este proyecto.]
+La parte más complicada para mi en un inicio fue comprender el como se diferenciaba el JavaScript del TypeScript, 
+puesto que creía que solo era cuestión de cambiar el tipo del archivo a diferencia de tener que reescribirlo. 
+Ahora comprendo mejor que TypeScript permite un trabajo mejor ordenado al ayudar a visualizar errores antes de que
+se compile o corra el programa, siendo type una forma de unir primitivos o generar listas de una variable e 
+interface para definir la estructura de un objeto.
 
 ## Flujo de GitHub
 
+-Enlace al Repositorio: https://github.com/PabloVar06/Repo-Proyecto-1 
 - Rama de trabajo: `feature/proyecto-1`
-- [Enlace al pull request hacia `main`]
+- Enlace al pull request: (https://github.com/PabloVar06/Repo-Proyecto-1/pull/8)
